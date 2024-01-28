@@ -1,0 +1,13 @@
+4. Read about IP address, port, HTTP methods, MAC address?
+
+MAC address:
+MAC address is assigned to the network interface card by the manufacturer and is used for communication 
+within the local area network. It is a globally unique address. 
+
+IP address:
+An IP address is used for communication within the local area network and for communication between 
+networks (usually through the Internet).
+
+PORT address:
+The port address (port number): We use this to identify the processes uniquely on a machine. 
+This number can range from 0–65535.
